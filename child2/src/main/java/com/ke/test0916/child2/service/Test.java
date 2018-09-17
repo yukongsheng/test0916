@@ -14,7 +14,9 @@ public class Test {
     public String set(){
         return null;
     }
-    
+    public static void a(){
+
+    }
     //hsdgfuhheud
 
     //ahdgfjdfydsgf
@@ -25,4 +27,8 @@ public class Test {
     //ajdgfuyieuhr
     //sdgfurwhfu
     //sfhgfhfuf
+
+    public static void b(){
+
+    }
 }
