@@ -11,7 +11,7 @@ public class Test {
     //33333333333333333
     //俺素福低等级覅u说的话
     //00000000000000
-    public String get(){
+    public String set(){
         return null;
     }
 }
